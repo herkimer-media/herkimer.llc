@@ -1,0 +1,35 @@
+.links {
+	font-size: 2em;
+	margin: 1em 0;
+	text-align: center;
+
+	a {
+		margin: 0 .5em;
+		text-decoration: none;
+	}
+}
+
+.logo {
+	width: 100%;
+}
+
+.logo-container {
+	max-width: 300px;
+	width: 100%;
+}
+
+.portal {
+	padding: 2em;
+}
+
+.site-main {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	justify-content: center;
+}
+
+.site {
+	height: 100%;
+}
